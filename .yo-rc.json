@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "spfx-angular-app",
+    "libraryId": "59c86779-d88b-466a-a9e5-c30d094be5f4",
+    "environment": "spo"
+  }
+}
